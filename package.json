@@ -1,0 +1,24 @@
+{
+  "name": "jsplc",
+  "version": "1.0.0",
+  "description": "PLC modbus JS scripts",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kleniu/jsPLC.git"
+  },
+  "author": "Robert Kleniewski",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kleniu/jsPLC/issues"
+  },
+  "homepage": "https://github.com/kleniu/jsPLC#readme",
+  "dependencies": {
+    "modbus-serial": "^7.6.0",
+    "suncalc": "^1.8.0",
+    "why-is-node-running": "^2.1.0"
+  }
+}
